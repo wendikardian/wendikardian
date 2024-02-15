@@ -16,6 +16,7 @@ I'm a passionate programmer with a strong interest in full-stack development, da
 ## Technologies I Love
 - Frontend: HTML, CSS, JavaScript, React.js
 - Backend: Node.js, Express.js, Django
+- Mobile : React Native & Flutter
 - Database: MongoDB, MySQL, PostgreSQL
 - Machine Learning: Python, TensorFlow, Scikit-learn
 - Others: Git, Docker, Heroku
