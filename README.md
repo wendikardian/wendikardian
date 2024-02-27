@@ -26,6 +26,8 @@ I'm a passionate programmer with a strong interest in full-stack development, da
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
 </a>
 
+<br>
+
   <a href="https://githubtrends.io">
   <img align="center" src="https://api.githubtrends.io/user/svg/wendikardian/langs?time_range=one_year&include_private=True&loc_metric=changed" />
 </a>
