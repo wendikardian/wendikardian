@@ -22,10 +22,6 @@ I'm a passionate programmer with a strong interest in full-stack development, da
 - Others: Git, Docker, Heroku
 
 <p align="left">
-<a href="https://github.com/wendikardian">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
-</a>
-
 <br>
 
   <a href="https://githubtrends.io">
