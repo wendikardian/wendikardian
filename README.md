@@ -14,7 +14,7 @@ I'm a passionate programmer with a strong interest in full-stack development, da
 
 
 ## Technologies I Love
-- Frontend: HTML, CSS, JavaScript, React.js
+- Frontend: HTML, CSS, JavaScript, React.js, Vue Js
 - Backend: Node.js, Express.js, Django
 - Mobile : React Native & Flutter
 - Database: MongoDB, MySQL, PostgreSQL
