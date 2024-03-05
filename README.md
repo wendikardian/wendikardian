@@ -8,7 +8,7 @@ I'm a passionate programmer with a strong interest in full-stack development, da
 - 🧑‍💻 Software Engineering
 - 💻 Full-stack developer
 - 📲 Mobile Development
-- 📊 Data enthusiast
+- 📊 Machine Learning enthusiast
 - 🤖 AI enthusiast
 - 🎓 Educator
 
